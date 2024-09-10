@@ -1,6 +1,7 @@
 # Data Science Midterm Project
 
 ## Project/Goals
+This is an example goal
 
 ## Process
 ### (your step 1)
